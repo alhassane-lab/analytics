@@ -1,8 +1,7 @@
 # analytics
 
 Data Science & Data Analysis projects ...
-
-
+.
 .
 ├── python
 │   ├── energy-consumption-prediction
