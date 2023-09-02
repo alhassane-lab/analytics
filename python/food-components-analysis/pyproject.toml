@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "project-3"
+version = "0.1.0"
+description = ""
+authors = ["Alhassanne <alhassanne.ahmed@servier.com>"]
+readme = "README.md"
+packages = [{include = "project_3"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.0"
+seaborn = "^0.12.0"
+sklearn = "^0.0"
+missingno = "^0.5.1"
+jupyter = "^1.0.0"
+notebook = "^6.5.2"
+wordcloud = "^1.8.2.2"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+notebook = "^6.4.12"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
