@@ -1,0 +1,12 @@
+functions           NA
+matplotlib          3.5.2
+mpl_toolkits        NA
+numpy               1.23.1
+pandas              1.4.3
+pyspark             3.3.0
+researchpy          NA
+scipy               1.8.1
+seaborn             0.11.2
+session_info        1.0.0
+sklearn             1.1.1
+statsmodels         0.13.2
