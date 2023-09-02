@@ -18,10 +18,8 @@ We used **Excel** and **Power Query** for data preparation
 ### Database Design
 We used **Power Architect** to design the datase.
 
-<img alt="MySQL" width="80%" src="./dbdesign.png" style="padding-right:10px;" />
+![Alt text](image.png)
 
-### The model
-We used **MySQL** to implement the model
 
 
 #
@@ -32,7 +30,7 @@ We used **MySQL** to implement the model
 
 1 Relational design patterns
 
-1 script for tables in MySQL
+1 Create tables MySQL
 
 1 script tables creation in PostgreSQL 
 
