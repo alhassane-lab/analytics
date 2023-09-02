@@ -1,16 +1,19 @@
 # analytics
 
 Data Science & Data Analysis projects ...
+````
 .
-.
-├── python
+├── notebooks
 │   ├── energy-consumption-prediction
 │   ├── fake-notes-classification
-│   ├── financial-data-loan-scoring-prediction
-│   ├── food-components-analysis
+│   ├── loan-scoring-prediction
+│   ├── nutriscore-analysis
 │   └── wine-company-turnover-analysis
-│ 
+├── python
+│   ├── stats-tests-automation
+│   └── text-processing-automation
 └── sql
     ├── churn-prediction-BigQuery
     └── real-estate-analysis
 
+````
